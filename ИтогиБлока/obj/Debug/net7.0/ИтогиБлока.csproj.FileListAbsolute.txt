@@ -1,0 +1,15 @@
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\bin\Debug\net7.0\ИтогиБлока.exe
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\bin\Debug\net7.0\ИтогиБлока.deps.json
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\bin\Debug\net7.0\ИтогиБлока.runtimeconfig.json
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\bin\Debug\net7.0\ИтогиБлока.dll
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\bin\Debug\net7.0\ИтогиБлока.pdb
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.csproj.AssemblyReference.cache
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.AssemblyInfoInputs.cache
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.AssemblyInfo.cs
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.csproj.CoreCompileInputs.cache
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.dll
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\refint\ИтогиБлока.dll
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.pdb
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ИтогиБлока.genruntimeconfig.cache
+C:\Users\Анхен\Desktop\Учёба\Итоги блока. Выбор специализации. IT-специалист\ИтогиБлока\obj\Debug\net7.0\ref\ИтогиБлока.dll
