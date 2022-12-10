@@ -7,7 +7,7 @@
 // лучше обойтись исключительно массивами.
 
 
-string[] family = new String[7] { "Я", "мама", "папа", "сын", "собака", "", "иЯ"}; ;
+string[] family = new String[7] { "Я", "мама", "папа", "сын", "собака", "", "иЯ" }; ;
 
 for (int i = 0; i < family.Length; i++)
 {
@@ -23,9 +23,9 @@ for (int i = 0; i < family.Length; i++)
 {
     if (family[i].Length <= 3)
     {
-        newFamily [i] = family[i];
+        newFamily[i] = family[i];
         Console.WriteLine(newFamily[i]);
-        }
+    }
 }
 
 
